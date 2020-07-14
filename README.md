@@ -1,4 +1,4 @@
-![Picture](IMG_4545.JPG)
+![AICoding](https://github.com/coding-ai/coding-ai/blob/master/IMG_4545.JPG)
 
 ### Hi everyone! 👋
 
