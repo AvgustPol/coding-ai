@@ -1,16 +1,13 @@
-### Hi there 👋
+![Test Image 1](3DTest.png)
 
-<!--
-**coding-ai/coding-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi everyone! 👋
 
-Here are some ideas to get you started:
+My name is Andrea, I am a Computer Vision Engineer currently working as a Machine Learning Engineer. I am passionate about photography and data-driven technologies. On my spare time you will probably find me doing sports or building fun (and partially useless) software programs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I was born in 🇻🇪, I was raised in 🇪🇸, I live in 🇩🇰, and I work in 🇸🇪. I share my knowledge through different platforms:
+
+<p align="center">
+  <a href="https://www.instagram.com/ai.coding/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
+  <a href="https://twitter.com/aicoding_"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
+  <a href="https://www.youtube.com/channel/UC8FB3UGeHITLOoxb_1F085Q?view_as=subscriber"><img src="https://img.shields.io/badge/YouTube--_.svg?style=social&logo=youtube" alt="YouTube"></a>
+</p>
