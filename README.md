@@ -2,7 +2,7 @@
 
 ### Hi everyone! 👋
 
-My name is Andrea, I am a Computer Vision Engineer currently working as a Machine Learning Engineer. I am passionate about photography and data-driven technologies. On my spare time you will probably find me doing sports or building fun (and partially useless) software programs.
+My name is Andrea, I am a Computer Vision Engineer currently working as a Machine Learning Engineer. I am passionate about photography and data-driven technologies. In my spare time you will probably find me doing sports or building fun (and partially useless) software programs.
 
 I was born in 🇻🇪, I was raised in 🇪🇸, I live in 🇩🇰, and I work in 🇸🇪. I share my knowledge through different platforms:
 
