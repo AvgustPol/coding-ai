@@ -1,4 +1,4 @@
-![Brain damage](IMG_20190620_214940_601.jpg)
+![Picture](IMG_4545.JPG)
 
 ### Hi everyone! 👋
 
